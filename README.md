@@ -11,9 +11,9 @@ It includes both numeric and categorical variables describing the visitor's beha
 - Detected and handled outliers in continuous features to improve model performance.  
 - Performed feature selection by analyzing correlations and feature importance.
 - Split the dataset into training and testing sets (train-test split).
- ## Project Overview
- **Goal:** Predict whether a visitor will make a purchase.
- **Methods:**
+ ## Overview
+- **Goal:** Predict whether a visitor will make a purchase.
+- **Methods:**
   - Decision Tree Classifier
   - Random Forest Classifier
- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC.
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC.
