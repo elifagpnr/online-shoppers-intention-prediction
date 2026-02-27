@@ -1,6 +1,6 @@
 # Online Shoppers Intention Prediction
 This project predicts whether an online shopper will make a purchase based on their browsing behavior. 
-The dataset used is the https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset
+The dataset used is the https://www.kaggle.com/datasets/naniruddhan/online-shoppers-intention-decision-making-data
 ## Dataset
 The dataset contains features such as page visits, duration on pages, bounce rates, and more.  
 It includes both numeric and categorical variables describing the visitor's behavior on the website.
